@@ -18,5 +18,5 @@ So, I learned quite a lotta stuff with this task. THe major challenges/roadblock
     **Rover Brick — the King of the Arena**
       This one took me a lotta time. My approach is that, after i upload the .txt file which contains info regardin the placement of obstacles across the arena, i'd analyse every single line separately. Also i wanted to work only at the positive region. So i made south and west as positive by takin the negative of those coordinates. While, brick was navigating the arena, I'd mark those coords which it had already reached as 0. For finding the shortest path, i used BFS. I thought of using A* but that seemed a bit too complex. Anyways, that's how i did this.
   #Final Words:
-    THat's all the quests that i did. I wanted to try the other two hard dose probs but i didnt get the time to try those. The second one from hard dose might have taken all my time as i dont know opencv but i'll still learn it. That's pretty much it.
+    THat's all the quests that i did. I wanted to try the other two hard dose probs but i didnt get the time to try those. The second one from hard dose might have taken all my time as i dont know opencv but i'll still learn it. I did use deepseek for debugging as it took a long time for figuring out that part. That's pretty much it. 
     
