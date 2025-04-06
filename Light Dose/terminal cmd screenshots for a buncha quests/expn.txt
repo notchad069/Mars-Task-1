@@ -1,0 +1,1 @@
+So, for quests that involves log files, i navigated to a directory that has .log files since this current directory didnt have any.
